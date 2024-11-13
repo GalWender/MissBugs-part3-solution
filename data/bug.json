@@ -1,0 +1,201 @@
+[
+  {
+    "title": "Infinite Loop Detected",
+    "severity": 6,
+    "creator": {
+      "_id": "cQMMn",
+      "fullname": "gigi gu"
+    },
+    "createdAt": 1719748278282,
+    "labels": [
+      "critical",
+      "need-CR"
+    ],
+    "_id": "TzytZ",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, earum sed corrupti voluptatum voluptatem at."
+  },
+  {
+    "_id": "ezGjR",
+    "title": "Smallah frontend is dead!",
+    "severity": 9,
+    "creator": {
+      "_id": "u101",
+      "fullname": "Puki Ja"
+    },
+    "createdAt": 1669742220340,
+    "labels": [
+      "high",
+      "dev-branch"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, earum sed corrupti voluptatum voluptatem at."
+  },
+  {
+    "title": "Wai Wai shel bug",
+    "severity": 9,
+    "createdAt": 1702922630093,
+    "creator": {
+      "_id": "u101",
+      "fullname": "Puki Ja"
+    },
+    "labels": [
+      "critical",
+      "need-CR"
+    ],
+    "_id": "M95l1U",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, earum sed corrupti voluptatum voluptatem at."
+  },
+  {
+    "title": "Do QA to the filter",
+    "severity": 6,
+    "createdAt": 1702908284576,
+    "creator": {
+      "_id": "u101",
+      "fullname": "Puki Ja"
+    },
+    "labels": [
+      "critical",
+      "need-CR"
+    ],
+    "_id": "dkZiC",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, earum sed corrupti voluptatum voluptatem at."
+  },
+  {
+    "title": "risan bug",
+    "severity": "6",
+    "createdAt": 1719742344000,
+    "creator": {
+      "_id": "8CHZd",
+      "fullname": "risan ben ",
+      "password": "risan"
+    },
+    "_id": "L6MtY",
+    "labels": [
+      "famous",
+      "high"
+    ]
+  },
+  {
+    "title": "123 bug",
+    "severity": 5,
+    "creator": {
+      "_id": "fLtg9",
+      "fullname": "Admin Admin",
+      "isAdmin": true
+    },
+    "createdAt": 1731512166495,
+    "labels": [
+      "critical",
+      "need-CR"
+    ],
+    "_id": "cxWG7",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, earum sed corrupti voluptatum voluptatem at."
+  },
+  {
+    "title": "new test bug",
+    "severity": 4,
+    "creator": {
+      "_id": "9EqtD",
+      "fullname": "1",
+      "password": "1"
+    },
+    "createdAt": 1731487515872,
+    "labels": [
+      "critical",
+      "need-CR"
+    ],
+    "_id": "DmLa9",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, earum sed corrupti voluptatum voluptatem at."
+  },
+  {
+    "title": "404 Coffee Not Found",
+    "severity": 3,
+    "creator": {
+      "_id": "fLtg9",
+      "fullname": "Admin Admin",
+      "isAdmin": true
+    },
+    "createdAt": 1719744162231,
+    "labels": [
+      "critical",
+      "need-CR"
+    ],
+    "_id": "J5eVg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, earum sed corrupti voluptatum voluptatem at."
+  },
+  {
+    "title": "Bug CR",
+    "severity": "3",
+    "createdAt": 1702722630093,
+    "creator": {
+      "_id": "NniKy",
+      "fullname": "Guy Kadohs",
+      "password": "guy1"
+    },
+    "_id": "xxssK",
+    "labels": [
+      "famous",
+      "high"
+    ]
+  },
+  {
+    "title": "ok",
+    "severity": 3,
+    "creator": {
+      "_id": "9EqtD",
+      "fullname": "1",
+      "password": "1"
+    },
+    "createdAt": 1731489401457,
+    "labels": [
+      "critical",
+      "need-CR"
+    ],
+    "_id": "K5MHT",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, earum sed corrupti voluptatum voluptatem at."
+  },
+  {
+    "title": "Ok bug",
+    "severity": 3,
+    "createdAt": 1702922630093,
+    "creator": {
+      "_id": "u101",
+      "fullname": "Puki Ja"
+    },
+    "labels": [
+      "critical",
+      "need-CR"
+    ],
+    "_id": "M95lU",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, earum sed corrupti voluptatum voluptatem at."
+  },
+  {
+    "title": "Good bug",
+    "severity": "2",
+    "creator": {
+      "_id": "u101",
+      "fullname": "Puki Ja"
+    },
+    "createdAt": 1669742220370,
+    "_id": "MgX8V",
+    "labels": [
+      "high",
+      "dev-branch"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, earum sed corrupti voluptatum voluptatem at."
+  },
+  {
+    "title": "my bug",
+    "severity": "2",
+    "createdAt": 1719742344022,
+    "creator": {
+      "_id": "oLRch",
+      "fullname": "risan ben",
+      "password": "risan"
+    },
+    "_id": "fftKZ",
+    "labels": [
+      "famous",
+      "high"
+    ]
+  }
+]
